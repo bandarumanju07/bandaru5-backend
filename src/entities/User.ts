@@ -10,4 +10,22 @@ export class User extends BaseEntity {
 
   @Column()
   email!: string;
+
+  @Column({ nullable: true })
+  password!: string;
+
+  @Column({ nullable: true })
+  gender!: string;
+
+  @Column({ nullable: true })
+  phone!: string;
+
+  @Column({ nullable: true })
+  city!: string;
+
+  @Column({ nullable: true })
+  state!: string;
+
+  @Column({ nullable: true })
+  country!: string;
 }
