@@ -1,7 +1,7 @@
 import { User } from "../entities/User";
 import { GraphQLError } from "graphql";
 
-export const resolvers = {
+export const userResolvers = {
   Query: {
     users: async () => {
       try {
