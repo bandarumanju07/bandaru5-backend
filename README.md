@@ -84,3 +84,10 @@ mutation DeleteProduct {
 }
 
 
+
+
+
+
+#Database
+
+![alt text](image.png)
