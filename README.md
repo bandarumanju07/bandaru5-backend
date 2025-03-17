@@ -91,3 +91,9 @@ mutation DeleteProduct {
 #Database
 
 ![alt text](image.png)
+
+
+
+#Sources
+
+https://fabric.inc/blog/commerce/ecommerce-database-design-example
